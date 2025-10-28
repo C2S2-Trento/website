@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: C2S2 - Center for Computational Social Science and Human Dynamics
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: C2S2
+last_name: Trento
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
-status:
-  icon: 🚀
+# status:
+#   icon: 🚀
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+# role: Senior AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+# organizations:
+#  - name: Meta AI
+#    url: https://ai.meta.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
